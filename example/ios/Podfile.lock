@@ -1,0 +1,29 @@
+PODS:
+  - baidu_location (0.0.1):
+    - BMKLocationKit
+    - Flutter
+  - BMKLocationKit (1.8.2)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - baidu_location (from `.symlinks/plugins/baidu_location/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - BMKLocationKit
+
+EXTERNAL SOURCES:
+  baidu_location:
+    :path: ".symlinks/plugins/baidu_location/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  baidu_location: b9613646cf8cde2bc38c44f1861c269e9bded464
+  BMKLocationKit: 59b49b08dce2dd17bd4b8862d86d2cd3fd3f6b8e
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 025eae5b1fea6aaf1cbb1438df7b69c30f4c8f0b
+
+COCOAPODS: 1.8.3
